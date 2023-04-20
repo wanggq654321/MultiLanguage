@@ -1,0 +1,3 @@
+# MultiLanguage
+MultiLanguage动态下发多语言国际化解决方案
+参考原生Resources开发，使用弱引用、mmap性能和内存能保持一个平衡。
