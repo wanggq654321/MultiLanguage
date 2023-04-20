@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    <string name="app_name2">MultiLanguage2</string>
+
+
+    <string name="app_tlive_yxt_live_startlive">开始直播</string>
+    <string name="common_i18n_country_areacode_30_68">希腊</string>
+    <string name="app_comp_yxt_photo_msg_photodisabledsave">无法保存图片</string>
+
+
+</resources>
